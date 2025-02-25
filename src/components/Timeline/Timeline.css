@@ -59,8 +59,8 @@
     margin-top: -5px !important; /* Negative margin to bring the connector closer to the dot */
 }
 
-.css-628fjv::before {
-    content: "";
-    flex: none;
-    padding: 0px 0px;
+.Timeline .css-628fjv::before {
+    content: ""!important;
+    flex: none !important;
+    padding: 0px 0px !important;
 }
