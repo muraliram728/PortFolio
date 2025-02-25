@@ -112,10 +112,13 @@ export default {
         "This project demonstrates an automated approval process using Microsoft Power Automate. The flow is designed to manage multiple approval levels and dynamically notify approvers via Outlook email. It integrates with SharePoint to manage approval workflows efficiently.",
       link: [
         {
-          link: "https://github.com/muraliram728/my-repo",
+          link: "https://github.com/muraliram728/Power-Automate",
           icon: <GitHubIcon />,
         },
-        { link: "https://github.com/muraliram728", icon: <LanguageIcon /> },
+        {
+          link: "https://github.com/muraliram728/Power-Automate",
+          icon: <LanguageIcon />,
+        },
       ],
     },
   ],
