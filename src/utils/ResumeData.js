@@ -85,7 +85,7 @@ export default {
           link: "https://github.com/muraliram728/Trichyno1Auto",
           icon: <GitHubIcon />,
         },
-        { link: "https://trichyno1.netlify.app/", icon: <LanguageIcon /> },
+        { link: "https://www.trichyno1auto.com/", icon: <LanguageIcon /> },
       ],
     },
     {
