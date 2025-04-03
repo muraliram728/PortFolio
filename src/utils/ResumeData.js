@@ -3,7 +3,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import LanguageIcon from "@mui/icons-material/Language";
 import SharePoint1 from "../assets/images/sharpointProject1.jpg";
 import TrichyNoAuto from "../assets/images/TrichyNo1Auto.jpeg";
-import SpinImage from "../assets/images/spinImage.jpeg";
+import SpinImage from "../assets/images/spinImage.png";
 export default {
   name: "MURALI.R",
   title: "React Developer",
