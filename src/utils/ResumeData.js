@@ -85,7 +85,22 @@ export default {
           link: "https://github.com/muraliram728/Trichyno1Auto",
           icon: <GitHubIcon />,
         },
-        { link: "https://trichyno1-auto.web.app/", icon: <LanguageIcon /> },
+        { link: "https://www.trichyno1auto.com/", icon: <LanguageIcon /> },
+      ],
+    },
+    {
+      tag: "React&Redux Toolkit",
+      title: "Spin-O-Matic Decider",
+      image: TrichyNoAuto,
+      caption: "Spin-O-Matic Decider – Trip Tracking System (React, Redux Toolkit, Local Storage)",
+      description:
+        "Spin-O-Matic Decider is a fun and interactive decision-making app that helps users make choices effortlessly. Whether it's picking a meal, selecting a task, or choosing a random activity, this app lets users enter their own options, spin the wheel, and get an instant decision.",
+      link: [
+        {
+          link: "https://github.com/muraliram728/Spin-O-Matic-Decider",
+          icon: <GitHubIcon />,
+        },
+        { link: "https://spin-o-matic-decider.netlify.app/", icon: <LanguageIcon /> },
       ],
     },
     {
