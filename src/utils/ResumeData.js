@@ -3,7 +3,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import LanguageIcon from "@mui/icons-material/Language";
 import SharePoint1 from "../assets/images/sharpointProject1.jpg";
 import TrichyNoAuto from "../assets/images/TrichyNo1Auto.jpeg";
-
+import SpinImage from "../assets/images/spinImage.jpeg";
 export default {
   name: "MURALI.R",
   title: "React Developer",
@@ -91,7 +91,7 @@ export default {
     {
       tag: "React&Redux Toolkit",
       title: "Spin-O-Matic Decider",
-      image: TrichyNoAuto,
+      image: SpinImage,
       caption: "Spin-O-Matic Decider – Trip Tracking System (React, Redux Toolkit, Local Storage)",
       description:
         "Spin-O-Matic Decider is a fun and interactive decision-making app that helps users make choices effortlessly. Whether it's picking a meal, selecting a task, or choosing a random activity, this app lets users enter their own options, spin the wheel, and get an instant decision.",
