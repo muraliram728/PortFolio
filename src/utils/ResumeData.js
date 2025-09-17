@@ -3,6 +3,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import LanguageIcon from "@mui/icons-material/Language";
 import SharePoint1 from "../assets/images/sharpointProject1.jpg";
 import TrichyNoAuto from "../assets/images/TrichyNo1Auto.jpeg";
+import LeaveApp from "../assets/images/LeaveManagement App.jpg";
 import SpinImage from "../assets/images/spinImage.png";
 export default {
   name: "MURALI.R",
@@ -113,6 +114,20 @@ export default {
       link: [
         {
           link: "https://github.com/muraliram728/SPFx-ECB-menu-item",
+          icon: <GitHubIcon />,
+        },
+      ],
+    },
+    {
+      tag: "Sharepoint",
+      title: "Leave Management System - SPFx WebPart",
+      image: LeaveApp,
+      caption: "Full-stack leave approval workflow solution",
+      description:
+        "Comprehensive leave management system built with SPFx, React, and Redux. Features automated multi-level approval workflows via Power Automate, real-time dashboards, and seamless SharePoint integration for enterprise leave processing.",
+      link: [
+        {
+          link: "https://github.com/muraliram728/leave-management-app-SPFX",
           icon: <GitHubIcon />,
         },
       ],
